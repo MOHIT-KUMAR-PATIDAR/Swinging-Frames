@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Weather App</title>
+    <title>Swinging Frames</title>
 <link rel="stylesheet" href="styles.css">
   </head>
   <body>
